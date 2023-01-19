@@ -1,0 +1,19 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "first_name": "ahmad",
+      "last_name": "yaser"
+    },
+    {
+      "id": 2,
+      "first_name": "fadi",
+      "last_name": "saeed"
+    },
+    {
+      "id": 3,
+      "first_name": "yaser",
+      "last_name": "shaker"
+    }
+  ]
+}
